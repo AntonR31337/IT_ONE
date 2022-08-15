@@ -1,0 +1,11 @@
+.modal-window {
+  background-color: cadetblue;
+  position: absolute;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  left: auto;
+  top: 0;
+  z-index: 999;
+}
+/*# sourceMappingURL=index.css.map */
